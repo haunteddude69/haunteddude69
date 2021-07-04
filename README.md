@@ -2,8 +2,8 @@
   
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning various tool on DevOps 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate any on DevOps projects or anything related DevOps 
+- 📫 Please reach out to me almeidabrian31396@gmail.com
 
 <!---
 haunteddude69/haunteddude69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
